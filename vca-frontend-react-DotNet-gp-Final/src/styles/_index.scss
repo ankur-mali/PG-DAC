@@ -1,0 +1,57 @@
+@import '_variables.scss';
+@import '_mixins.scss';
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+body {
+  line-height: 1.5;
+  font-family: 'Nunito', sans-serif;
+  @include scrollbars(10px, #41424c, #F5F5F5);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.max-width {
+  max-width: 1100px;
+  margin: 0px auto;
+}
+
+.absolute-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cur-po {
+  cursor: pointer;
+}
+
+.collection-title {
+  font-size: 30px;
+  color: $heading-text;
+  margin-bottom: 32px;
+  font-weight: 600;
+}
+
+.button{
+  min-width: max-content;
+  padding: 10px;
+  color: $white;
+  border: none;
+  font-size: 18px;
+  background-color: $card-button;
+  cursor: pointer;
+}
+
+.g-input{
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+p{
+  font-size: 18px;
+}

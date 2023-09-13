@@ -1,0 +1,72 @@
+@import '../../../styles/mixins';
+
+.filters{
+    padding: 16px 0px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.dropdown {
+    width: 200px;
+    margin-right: 50px;
+    border-radius: 10px;
+    box-shadow: 0 10px 25px rgba(0,0,0,.1);
+    background-color: white;
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-header {
+    padding: 15px;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .dropdown-body {
+    border-top: 2px solid #E5E8EC;
+    box-shadow: 0 5px 15px rgba(0,0,0,.1);
+    display: none;
+    position: absolute;
+    background-color: white;
+    width: 200px;
+    max-height: 150px;
+    overflow-y: auto;  
+    @include scrollbars(10px, #41424c, #F5F5F5);
+    z-index: 10;
+}
+  
+  .dropdown-body.open {
+    display: block;
+  }
+  
+  .dropdown-item {
+    padding: 10px;
+  }
+  
+  .dropdown-item:hover {
+    cursor: pointer;
+  }
+  
+  .dropdown-item-dot {
+    opacity: 0;
+    color: #91A5BE;
+    transition: all .2s ease-in-out;
+  }
+  
+  .dropdown-item-dot.selected {
+    opacity: 1;
+  }
+  
+  .icon {
+    font-size: 13px;
+    color: #91A5BE;
+    transform: rotate(0deg);
+    transition: all .2s ease-in-out;
+  }
+  
+  .icon.open {
+    transform: rotate(90deg);
+  }

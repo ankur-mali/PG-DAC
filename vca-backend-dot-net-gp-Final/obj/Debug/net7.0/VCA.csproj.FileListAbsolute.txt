@@ -1,0 +1,1576 @@
+D:\Study Related\VCA BOTH\crud-backend-dotnet\obj\Debug\net7.0\VCA.csproj.AssemblyReference.cache
+D:\Study Related\VCA BOTH\crud-backend-dotnet\obj\Debug\net7.0\VCA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Related\VCA BOTH\crud-backend-dotnet\obj\Debug\net7.0\VCA.AssemblyInfoInputs.cache
+D:\Study Related\VCA BOTH\crud-backend-dotnet\obj\Debug\net7.0\VCA.AssemblyInfo.cs
+D:\Study Related\VCA BOTH\crud-backend-dotnet\obj\Debug\net7.0\VCA.csproj.CoreCompileInputs.cache
+D:\Study Related\VCA BOTH\crud-backend-dotnet\obj\Debug\net7.0\VCA.MvcApplicationPartsAssemblyInfo.cs
+D:\Study Related\VCA BOTH\crud-backend-dotnet\obj\Debug\net7.0\VCA.MvcApplicationPartsAssemblyInfo.cache
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\appsettings.Development.json
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\appsettings.json
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\VCA.exe
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\VCA.deps.json
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\VCA.runtimeconfig.json
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\VCA.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\VCA.pdb
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Azure.Core.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Azure.Identity.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Humanizer.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Microsoft.Build.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\NuGet.Common.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\System.CodeDom.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\af\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\ar\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\az\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\bg\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\cs\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\da\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\de\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\el\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\es\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\fa\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\fr\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\he\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\hr\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\hu\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\hy\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\id\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\is\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\it\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\ja\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\ku\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\lv\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\mt\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\nb\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\nl\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\pl\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\pt\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\ro\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\ru\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\sk\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\sl\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\sr\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\sv\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\tr\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\uk\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\vi\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\obj\Debug\net7.0\staticwebassets\msbuild.VCA.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Study Related\VCA BOTH\crud-backend-dotnet\obj\Debug\net7.0\staticwebassets\msbuild.build.VCA.props
+D:\Study Related\VCA BOTH\crud-backend-dotnet\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.VCA.props
+D:\Study Related\VCA BOTH\crud-backend-dotnet\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.VCA.props
+D:\Study Related\VCA BOTH\crud-backend-dotnet\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Study Related\VCA BOTH\crud-backend-dotnet\obj\Debug\net7.0\staticwebassets.build.json
+D:\Study Related\VCA BOTH\crud-backend-dotnet\obj\Debug\net7.0\staticwebassets.development.json
+D:\Study Related\VCA BOTH\crud-backend-dotnet\obj\Debug\net7.0\scopedcss\bundle\VCA.styles.css
+D:\Study Related\VCA BOTH\crud-backend-dotnet\obj\Debug\net7.0\VCA.csproj.CopyComplete
+D:\Study Related\VCA BOTH\crud-backend-dotnet\obj\Debug\net7.0\VCA.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\obj\Debug\net7.0\refint\VCA.dll
+D:\Study Related\VCA BOTH\crud-backend-dotnet\obj\Debug\net7.0\VCA.pdb
+D:\Study Related\VCA BOTH\crud-backend-dotnet\obj\Debug\net7.0\VCA.genruntimeconfig.cache
+D:\Study Related\VCA BOTH\crud-backend-dotnet\obj\Debug\net7.0\ref\VCA.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\appsettings.Development.json
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\appsettings.json
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\VCA.exe
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\VCA.deps.json
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\VCA.runtimeconfig.json
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\VCA.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\VCA.pdb
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Azure.Core.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Azure.Identity.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Humanizer.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Microsoft.Build.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\NuGet.Common.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\System.CodeDom.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\af\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\ar\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\az\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\bg\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\cs\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\da\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\de\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\el\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\es\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\fa\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\fr\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\he\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\hr\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\hu\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\hy\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\id\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\is\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\it\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\ja\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\ku\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\lv\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\mt\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\nb\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\nl\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\pl\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\pt\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\ro\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\ru\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\sk\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\sl\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\sr\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\sv\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\tr\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\uk\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\vi\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\obj\Debug\net7.0\VCA.csproj.AssemblyReference.cache
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\obj\Debug\net7.0\VCA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\obj\Debug\net7.0\VCA.AssemblyInfoInputs.cache
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\obj\Debug\net7.0\VCA.AssemblyInfo.cs
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\obj\Debug\net7.0\VCA.csproj.CoreCompileInputs.cache
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\obj\Debug\net7.0\VCA.MvcApplicationPartsAssemblyInfo.cs
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\obj\Debug\net7.0\VCA.MvcApplicationPartsAssemblyInfo.cache
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\obj\Debug\net7.0\staticwebassets\msbuild.VCA.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\obj\Debug\net7.0\staticwebassets\msbuild.build.VCA.props
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.VCA.props
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.VCA.props
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\obj\Debug\net7.0\staticwebassets.build.json
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\obj\Debug\net7.0\staticwebassets.development.json
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\obj\Debug\net7.0\scopedcss\bundle\VCA.styles.css
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\obj\Debug\net7.0\VCA.csproj.CopyComplete
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\obj\Debug\net7.0\VCA.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\obj\Debug\net7.0\refint\VCA.dll
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\obj\Debug\net7.0\VCA.pdb
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\obj\Debug\net7.0\VCA.genruntimeconfig.cache
+D:\Study Related\VCA BOTH\VCA-backend-dotnet\obj\Debug\net7.0\ref\VCA.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\appsettings.Development.json
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\appsettings.json
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\VCA.exe
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\VCA.deps.json
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\VCA.runtimeconfig.json
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\VCA.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\VCA.pdb
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Azure.Core.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Azure.Identity.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Humanizer.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.Build.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\NuGet.Common.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\System.CodeDom.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\System.Memory.Data.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\af\Humanizer.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\ar\Humanizer.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\az\Humanizer.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\bg\Humanizer.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\cs\Humanizer.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\da\Humanizer.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\de\Humanizer.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\el\Humanizer.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\es\Humanizer.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\fa\Humanizer.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\fr\Humanizer.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\he\Humanizer.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\hr\Humanizer.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\hu\Humanizer.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\hy\Humanizer.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\id\Humanizer.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\is\Humanizer.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\it\Humanizer.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\ja\Humanizer.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\ku\Humanizer.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\lv\Humanizer.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\mt\Humanizer.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\nb\Humanizer.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\nl\Humanizer.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\pl\Humanizer.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\pt\Humanizer.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\ro\Humanizer.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\ru\Humanizer.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\sk\Humanizer.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\sl\Humanizer.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\sr\Humanizer.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\sv\Humanizer.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\tr\Humanizer.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\uk\Humanizer.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\vi\Humanizer.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\VCA\vca-backend-dot-net-gp\obj\Debug\net7.0\VCA.csproj.AssemblyReference.cache
+D:\VCA\vca-backend-dot-net-gp\obj\Debug\net7.0\VCA.GeneratedMSBuildEditorConfig.editorconfig
+D:\VCA\vca-backend-dot-net-gp\obj\Debug\net7.0\VCA.AssemblyInfoInputs.cache
+D:\VCA\vca-backend-dot-net-gp\obj\Debug\net7.0\VCA.AssemblyInfo.cs
+D:\VCA\vca-backend-dot-net-gp\obj\Debug\net7.0\VCA.csproj.CoreCompileInputs.cache
+D:\VCA\vca-backend-dot-net-gp\obj\Debug\net7.0\VCA.MvcApplicationPartsAssemblyInfo.cs
+D:\VCA\vca-backend-dot-net-gp\obj\Debug\net7.0\VCA.MvcApplicationPartsAssemblyInfo.cache
+D:\VCA\vca-backend-dot-net-gp\obj\Debug\net7.0\staticwebassets\msbuild.VCA.Microsoft.AspNetCore.StaticWebAssets.props
+D:\VCA\vca-backend-dot-net-gp\obj\Debug\net7.0\staticwebassets\msbuild.build.VCA.props
+D:\VCA\vca-backend-dot-net-gp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.VCA.props
+D:\VCA\vca-backend-dot-net-gp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.VCA.props
+D:\VCA\vca-backend-dot-net-gp\obj\Debug\net7.0\staticwebassets.pack.json
+D:\VCA\vca-backend-dot-net-gp\obj\Debug\net7.0\staticwebassets.build.json
+D:\VCA\vca-backend-dot-net-gp\obj\Debug\net7.0\staticwebassets.development.json
+D:\VCA\vca-backend-dot-net-gp\obj\Debug\net7.0\scopedcss\bundle\VCA.styles.css
+D:\VCA\vca-backend-dot-net-gp\obj\Debug\net7.0\VCA.csproj.CopyComplete
+D:\VCA\vca-backend-dot-net-gp\obj\Debug\net7.0\VCA.dll
+D:\VCA\vca-backend-dot-net-gp\obj\Debug\net7.0\refint\VCA.dll
+D:\VCA\vca-backend-dot-net-gp\obj\Debug\net7.0\VCA.pdb
+D:\VCA\vca-backend-dot-net-gp\obj\Debug\net7.0\VCA.genruntimeconfig.cache
+D:\VCA\vca-backend-dot-net-gp\obj\Debug\net7.0\ref\VCA.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\Google.Protobuf.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\MySql.Data.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\ZstdSharp.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+D:\VCA\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\appsettings.Development.json
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\appsettings.json
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\VCA.exe
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\VCA.deps.json
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\VCA.runtimeconfig.json
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\VCA.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\VCA.pdb
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Azure.Core.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Azure.Identity.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Google.Protobuf.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Humanizer.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.Build.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\MySql.Data.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\NuGet.Common.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\System.CodeDom.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\System.Memory.Data.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\ZstdSharp.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\af\Humanizer.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\ar\Humanizer.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\az\Humanizer.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\bg\Humanizer.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\cs\Humanizer.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\da\Humanizer.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\de\Humanizer.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\el\Humanizer.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\es\Humanizer.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\fa\Humanizer.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\fr\Humanizer.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\he\Humanizer.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\hr\Humanizer.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\hu\Humanizer.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\hy\Humanizer.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\id\Humanizer.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\is\Humanizer.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\it\Humanizer.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\ja\Humanizer.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\ku\Humanizer.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\lv\Humanizer.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\mt\Humanizer.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\nb\Humanizer.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\nl\Humanizer.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\pl\Humanizer.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\pt\Humanizer.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\ro\Humanizer.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\ru\Humanizer.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\sk\Humanizer.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\sl\Humanizer.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\sr\Humanizer.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\sv\Humanizer.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\tr\Humanizer.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\uk\Humanizer.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\vi\Humanizer.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\vca_kishor\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\vca_kishor\vca-backend-dot-net-gp\obj\Debug\net7.0\VCA.csproj.AssemblyReference.cache
+D:\vca_kishor\vca-backend-dot-net-gp\obj\Debug\net7.0\VCA.GeneratedMSBuildEditorConfig.editorconfig
+D:\vca_kishor\vca-backend-dot-net-gp\obj\Debug\net7.0\VCA.AssemblyInfoInputs.cache
+D:\vca_kishor\vca-backend-dot-net-gp\obj\Debug\net7.0\VCA.AssemblyInfo.cs
+D:\vca_kishor\vca-backend-dot-net-gp\obj\Debug\net7.0\VCA.csproj.CoreCompileInputs.cache
+D:\vca_kishor\vca-backend-dot-net-gp\obj\Debug\net7.0\VCA.MvcApplicationPartsAssemblyInfo.cs
+D:\vca_kishor\vca-backend-dot-net-gp\obj\Debug\net7.0\VCA.MvcApplicationPartsAssemblyInfo.cache
+D:\vca_kishor\vca-backend-dot-net-gp\obj\Debug\net7.0\staticwebassets\msbuild.VCA.Microsoft.AspNetCore.StaticWebAssets.props
+D:\vca_kishor\vca-backend-dot-net-gp\obj\Debug\net7.0\staticwebassets\msbuild.build.VCA.props
+D:\vca_kishor\vca-backend-dot-net-gp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.VCA.props
+D:\vca_kishor\vca-backend-dot-net-gp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.VCA.props
+D:\vca_kishor\vca-backend-dot-net-gp\obj\Debug\net7.0\staticwebassets.pack.json
+D:\vca_kishor\vca-backend-dot-net-gp\obj\Debug\net7.0\staticwebassets.build.json
+D:\vca_kishor\vca-backend-dot-net-gp\obj\Debug\net7.0\staticwebassets.development.json
+D:\vca_kishor\vca-backend-dot-net-gp\obj\Debug\net7.0\scopedcss\bundle\VCA.styles.css
+D:\vca_kishor\vca-backend-dot-net-gp\obj\Debug\net7.0\VCA.csproj.CopyComplete
+D:\vca_kishor\vca-backend-dot-net-gp\obj\Debug\net7.0\VCA.dll
+D:\vca_kishor\vca-backend-dot-net-gp\obj\Debug\net7.0\refint\VCA.dll
+D:\vca_kishor\vca-backend-dot-net-gp\obj\Debug\net7.0\VCA.pdb
+D:\vca_kishor\vca-backend-dot-net-gp\obj\Debug\net7.0\VCA.genruntimeconfig.cache
+D:\vca_kishor\vca-backend-dot-net-gp\obj\Debug\net7.0\ref\VCA.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\appsettings.Development.json
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\appsettings.json
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\VCA.exe
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\VCA.deps.json
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\VCA.runtimeconfig.json
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\VCA.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\VCA.pdb
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Azure.Core.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Azure.Identity.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Google.Protobuf.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Humanizer.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.Build.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\MySql.Data.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\NuGet.Common.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\System.CodeDom.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\ZstdSharp.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\af\Humanizer.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\ar\Humanizer.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\az\Humanizer.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\bg\Humanizer.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\cs\Humanizer.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\da\Humanizer.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\de\Humanizer.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\el\Humanizer.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\es\Humanizer.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\fa\Humanizer.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\fr\Humanizer.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\he\Humanizer.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\hr\Humanizer.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\hu\Humanizer.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\hy\Humanizer.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\id\Humanizer.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\is\Humanizer.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\it\Humanizer.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\ja\Humanizer.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\ku\Humanizer.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\lv\Humanizer.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\mt\Humanizer.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\nb\Humanizer.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\nl\Humanizer.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\pl\Humanizer.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\pt\Humanizer.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\ro\Humanizer.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\ru\Humanizer.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\sk\Humanizer.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\sl\Humanizer.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\sr\Humanizer.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\sv\Humanizer.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\tr\Humanizer.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\uk\Humanizer.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\vi\Humanizer.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\obj\Debug\net7.0\VCA.csproj.AssemblyReference.cache
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\obj\Debug\net7.0\VCA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\obj\Debug\net7.0\VCA.AssemblyInfoInputs.cache
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\obj\Debug\net7.0\VCA.AssemblyInfo.cs
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\obj\Debug\net7.0\VCA.csproj.CoreCompileInputs.cache
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\obj\Debug\net7.0\VCA.MvcApplicationPartsAssemblyInfo.cs
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\obj\Debug\net7.0\VCA.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\obj\Debug\net7.0\staticwebassets\msbuild.VCA.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\obj\Debug\net7.0\staticwebassets\msbuild.build.VCA.props
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.VCA.props
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.VCA.props
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\obj\Debug\net7.0\staticwebassets.build.json
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\obj\Debug\net7.0\staticwebassets.development.json
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\obj\Debug\net7.0\scopedcss\bundle\VCA.styles.css
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\obj\Debug\net7.0\VCA.csproj.CopyComplete
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\obj\Debug\net7.0\VCA.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\obj\Debug\net7.0\refint\VCA.dll
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\obj\Debug\net7.0\VCA.pdb
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\obj\Debug\net7.0\VCA.genruntimeconfig.cache
+D:\Project\project 0609\kishor_upload\vca-backend-dot-net-gp\obj\Debug\net7.0\ref\VCA.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\appsettings.Development.json
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\appsettings.json
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\VCA.exe
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\VCA.deps.json
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\VCA.runtimeconfig.json
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\VCA.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\VCA.pdb
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Azure.Core.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Azure.Identity.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Google.Protobuf.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Humanizer.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Microsoft.Build.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\MySql.Data.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\NuGet.Common.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\System.CodeDom.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\ZstdSharp.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\af\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\ar\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\az\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\bg\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\cs\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\da\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\de\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\el\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\es\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\fa\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\fr\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\he\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\hr\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\hu\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\hy\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\id\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\is\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\it\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\ja\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\ku\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\lv\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\mt\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\nb\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\nl\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\pl\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\pt\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\ro\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\ru\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\sk\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\sl\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\sr\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\sv\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\tr\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\uk\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\vi\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\obj\Debug\net7.0\VCA.csproj.AssemblyReference.cache
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\obj\Debug\net7.0\VCA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\obj\Debug\net7.0\VCA.AssemblyInfoInputs.cache
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\obj\Debug\net7.0\VCA.AssemblyInfo.cs
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\obj\Debug\net7.0\VCA.csproj.CoreCompileInputs.cache
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\obj\Debug\net7.0\VCA.MvcApplicationPartsAssemblyInfo.cs
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\obj\Debug\net7.0\VCA.MvcApplicationPartsAssemblyInfo.cache
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\obj\Debug\net7.0\staticwebassets\msbuild.VCA.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\obj\Debug\net7.0\staticwebassets\msbuild.build.VCA.props
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.VCA.props
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.VCA.props
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\obj\Debug\net7.0\staticwebassets.build.json
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\obj\Debug\net7.0\staticwebassets.development.json
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\obj\Debug\net7.0\scopedcss\bundle\VCA.styles.css
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\obj\Debug\net7.0\VCA.csproj.CopyComplete
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\obj\Debug\net7.0\VCA.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\obj\Debug\net7.0\refint\VCA.dll
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\obj\Debug\net7.0\VCA.pdb
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\obj\Debug\net7.0\VCA.genruntimeconfig.cache
+D:\Study Related\VCA BOTH\Dot Net\vca-backend-dot-net-gp-Final\obj\Debug\net7.0\ref\VCA.dll

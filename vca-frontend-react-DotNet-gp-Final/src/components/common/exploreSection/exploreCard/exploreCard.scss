@@ -1,0 +1,169 @@
+@import '../../../../styles/variables';
+
+.explore-card {
+    margin: 12px 0px 24px 0px;
+    padding: 10px;
+    border-radius: 15px;
+    border: 1px solid transparent;
+}
+
+.explore-card-cover {
+    height: 248px;
+    width: $card-width;
+    border-radius: 15px;
+    position: relative;
+}
+
+.explore-card-image {
+    height: 100%;
+    width: 100%;
+    border-radius: 15px;
+    // object-fit: cover;
+}
+
+.fuel-type {
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+    opacity: 0.8;
+    background-color: $primary-bg;
+    backdrop-filter: blur(4px);
+    font-weight: 600;
+    font-size: 12px;
+    padding: 2px 5px 3px;
+    border-radius: 4px;
+    text-transform: capitalize;
+}
+
+.pro-off {
+    position: absolute;
+    left: 0px;
+    bottom: 40px;
+    background-color: $tag-red;
+    color: $primary-bg;
+    font-size: 14px;
+    padding: 0px 6px;
+    border-radius: 0px 2px 2px 0px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    line-height: 18px;
+    font-weight: 500px;
+}
+
+.discount {
+    position: absolute;
+    left: 0px;
+    bottom: 14px;
+    background-color: $tag-blue;
+    color: $primary-bg;
+    font-size: 14px;
+    padding: 0px 6px;
+    border-radius: 0px 2px 2px 0px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    line-height: 18px;
+    font-weight: 500px;
+}
+
+.gold-off {
+    position: absolute;
+    left: 0px;
+    bottom: 40px;
+    background-color: $tag-red;
+    color: $primary-bg;
+    font-size: 14px;
+    padding: 0px 6px;
+    border-radius: 0px 2px 2px 0px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    line-height: 18px;
+    font-weight: 500px;
+}
+
+.res-row {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px 0px 6px;
+}
+
+.res-detail {
+    display: flex;
+}
+
+.res-detail-tag {
+    border: 1px solid $border-white;
+    margin-right: 4px;
+    padding: 0px 6px;
+    color: $inactive-text;
+}
+
+.res-name {
+    max-width: 200px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 18px;
+    font-weight: 600;
+    color: $heading-text;
+}
+
+.res-rating {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 8px;
+    font-size: 13px;
+    font-weight: 600;
+    color: $primary-bg;
+    // background-color: $tag-green;
+    border-radius: 6px;
+    height: 24px;
+}
+
+.res-rating-red {
+    background-color: $tag-red;
+}
+
+.res-rating-green {
+    background-color: $tag-green;
+}
+
+.res-rating i {
+    font-size: 10px;
+    margin-left: 2px;
+}
+
+.card-separator {
+    height: 1px;
+    margin: 10px 0px 5px;
+    background-color: $border-white;
+}
+
+.card-btn {
+    color: $white;
+    width: $card-width;
+    border: none;
+    border-radius: 2px;
+    background-color: $card-button;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 600;
+    margin: 4px 0px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.card-btn :hover {
+    background-color: $card-button-hover;
+    color: $card-button-hover;
+}
+
+.card-button-cover :hover {
+    background-color: $card-button-hover;
+    color: white;
+}

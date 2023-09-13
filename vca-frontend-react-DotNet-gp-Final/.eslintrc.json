@@ -1,0 +1,59 @@
+{
+    "env": {
+        "browser": true,
+        "es6": true
+    },
+    "extends": [
+        "plugin:react/recommended"
+    ],
+    "parserOptions": {
+        "ecmaVersion": "latest",
+        "sourceType": "module",
+        "project": "./tsconfig.json"
+    },
+    "plugins": [
+        "react"
+    ],
+    "rules": {
+        // "@typescript-eslint/triple-slash-reference": "off"
+    },
+    "overrides": [
+        { //**->recursive in subdir, ts?(x)->ts or tsx
+            "files": [
+                "src/**/*.ts?(x)",
+                "**/*.js",
+                "**/*.json"
+            ],
+            "rules": {
+                "indent": [
+                    "warn",
+                    2
+                ],
+                // "linebreak-style": ["warn", "unix"],
+                "quotes": [
+                    "warn",
+                    "single"
+                ],
+                "semi": [
+                    "warn",
+                    "never"
+                ],
+                "no-empty": "warn",
+                "comma-dangle": [
+                    "warn",
+                    "never"
+                ],
+                "spaced-comment": [
+                    "warn",
+                    "always"
+                ],
+                "no-unused-vars": "warn",
+                "no-var": "error",
+                "react/react-in-jsx-scope": "off",
+                "react/jsx-uses-react": "off",
+                "react/prop-types": "off",
+                "react/no-unescaped-entities": "off"
+            }
+        }
+    ]
+}

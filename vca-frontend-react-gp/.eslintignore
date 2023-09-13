@@ -1,0 +1,19 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore built files
+build/
+dist/
+out/
+
+# Ignore configuration files
+package.json
+package-lock.json
+tsconfig.json
+<!-- .eslintrc.js -->
+<!-- .eslintrc.json -->
+<!-- .eslintignore -->
+
+# Ignore specific files or patterns
+src/index.tsx
+src/reportWebVitals.ts

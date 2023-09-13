@@ -1,0 +1,33 @@
+@import '../../../styles/variables';
+
+.navbar {
+  background-color: #333;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 20px;
+}
+
+.navbar-right {
+  display: flex;
+  align-items: center;
+}
+
+.nav-links {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  gap: 20px;
+  font-size: $font-mid;
+}
+
+.nav-link {
+  color: #fff;
+  text-decoration: none;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+.nav-link:hover {
+  color: $primary-color;
+}
